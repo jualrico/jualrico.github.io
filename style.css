@@ -14,10 +14,11 @@ iframe{
     width: 800px;
     height: 500px;
 }
-#channel{
+#channels{
     font-size: 25px;
 }
-button{
+button,
+#channels button{
     font-size: 25px;
     padding: 10px;
     padding-left: 20px;
